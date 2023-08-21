@@ -17,9 +17,12 @@
 			<li><a href="https://tactical-board.com/animation/dca7d4457b6bfb_thuk">Q3	</a></li>
 		</ul>
 
+<!--
  	<h3>Defence</h3>
 		<ul>
 			<li><a href="https://www.wikipedia.org">Wikipedia</a></li>
 		</ul>
+-->
+
 </body>
 </html>
