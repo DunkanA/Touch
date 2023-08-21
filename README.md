@@ -1,7 +1,4 @@
 <html>
-<head>
-    <title>Dunkan's Touch animations</title>
-</head>
 <body>
     <h1>Welcome to Dunkan's Animation links</h1>
     <ul>
